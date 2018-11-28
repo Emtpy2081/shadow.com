@@ -1,8 +1,7 @@
 SSR后台部署与使用
 ========
 
-### 市面上的SSR服务端版本太多，由于本项目是公司使用，所以需要搭配后台。挑选之下，选用了开源项目[SSR](https://github.com/ouhaohan8023/SSR_server)与[SSRPanel](https://github.com/ouhaohan8023/shadow.com)
-### [博客地址](http://www.ohh.ink/#/novel?id=30)
+### 只供学习
 ### [Github](https://github.com/ouhaohan8023/SSR_server)
 ### 在此，衷心感谢作者：
 ### 1.[Bruskyii Panda](https://github.com/ssrpanel)
